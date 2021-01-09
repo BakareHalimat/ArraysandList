@@ -1,0 +1,11 @@
+C:\Users\MR BAKARE.M\ArraysandList\obj\Debug\netcoreapp3.0\ArraysandList.csprojAssemblyReference.cache
+C:\Users\MR BAKARE.M\ArraysandList\obj\Debug\netcoreapp3.0\ArraysandList.AssemblyInfoInputs.cache
+C:\Users\MR BAKARE.M\ArraysandList\obj\Debug\netcoreapp3.0\ArraysandList.AssemblyInfo.cs
+C:\Users\MR BAKARE.M\ArraysandList\bin\Debug\netcoreapp3.0\ArraysandList.exe
+C:\Users\MR BAKARE.M\ArraysandList\bin\Debug\netcoreapp3.0\ArraysandList.deps.json
+C:\Users\MR BAKARE.M\ArraysandList\bin\Debug\netcoreapp3.0\ArraysandList.runtimeconfig.json
+C:\Users\MR BAKARE.M\ArraysandList\bin\Debug\netcoreapp3.0\ArraysandList.runtimeconfig.dev.json
+C:\Users\MR BAKARE.M\ArraysandList\bin\Debug\netcoreapp3.0\ArraysandList.dll
+C:\Users\MR BAKARE.M\ArraysandList\bin\Debug\netcoreapp3.0\ArraysandList.pdb
+C:\Users\MR BAKARE.M\ArraysandList\obj\Debug\netcoreapp3.0\ArraysandList.dll
+C:\Users\MR BAKARE.M\ArraysandList\obj\Debug\netcoreapp3.0\ArraysandList.pdb
